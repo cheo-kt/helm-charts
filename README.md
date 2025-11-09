@@ -1,6 +1,6 @@
 # CyberChef Helm Chart Deployment
 
-**Student:** Sergio  
+**Student:** Sergio Fernando Florez Sanabria
 **Student ID:** A00396046  
 **Course:** Plataformas 2  
 **Date:** November 8, 2025
